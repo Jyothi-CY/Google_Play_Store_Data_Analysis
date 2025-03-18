@@ -47,3 +47,6 @@ This repository showcases the projects and skills developed during my internship
 git clone https://github.com/Jyothi-CY/Google_Play_Store_Data_Analysis.git 
 
 cd Google_PlayStore
+
+## Instructions 
+Run the ".ipynb" file to visualize the output.
