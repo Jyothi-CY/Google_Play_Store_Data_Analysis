@@ -2,7 +2,7 @@
 An end-to-end project for analyzing real-time Google Play Store data. Includes data cleaning, transformation, visualization, sentiment analysis using NLP, and interactive dashboard creation using Python, Pandas, Plotly, NLTK
 
 
-# Google Play Store Data Analytics 🚀
+# Google Play Store Data Analysis 🚀
 This repository showcases the projects and skills developed during my internship as a Data Analyst Intern. The focus was on building a real-time Google Play Store data pipeline, performing data cleaning, transformation, and analysis, and creating an interactive web dashboard.
 
 ## Skills and Tools Used
@@ -43,3 +43,6 @@ This repository showcases the projects and skills developed during my internship
 - Successfully created an end-to-end data pipeline and performed insightful analysis on the Google Play Store data.
 - Built a comprehensive dashboard that provides an interactive experience for exploring insights.
 
+## Clone the Repository
+git clone https://github.com/Jyothi-CY/Google_Play_Store_Data_Analysis.git
+cd Google_PlayStore
