@@ -44,6 +44,5 @@ This repository showcases the projects and skills developed during my internship
 - Built a comprehensive dashboard that provides an interactive experience for exploring insights.
 
 ## Clone the Repository
-git clone https://github.com/Jyothi-CY/Google_Play_Store_Data_Analysis.git
-
+git clone https://github.com/Jyothi-CY/Google_Play_Store_Data_Analysis.git 
 cd Google_PlayStore
